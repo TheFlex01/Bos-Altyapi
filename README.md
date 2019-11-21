@@ -1,2 +1,9 @@
 # Bos-Altyapi
-https://glitch.com/edit/#!/codelandb?path=README.md:1:0
+
+
+https://glitch.com/edit/#!/remix/codelandb
+
+Destek Sunucusuna Gelmeyi Unutma :)
+
+
+https://discord.gg/ZvCcPau
